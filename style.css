@@ -94,3 +94,12 @@ body {
   line-height: 1.6;
   font-weight: 500px;
 }
+@media (max-width:950px) {
+
+  .grid--4--c{
+    grid-template-columns: 1fr;
+  }
+  
+
+
+}
