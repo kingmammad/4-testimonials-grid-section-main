@@ -67,6 +67,9 @@ body {
   background-color: hsl(0, 0%, 100%);
   font-size: 16px;
 }
+.text-pra-5{
+  font-size: 10px;
+}
 .imag-box {
   display: flex;
   gap: 6px;
@@ -93,7 +96,7 @@ body {
 }
 .text-p {
   font-size: 11px;
-  line-height: 1.6;
+  line-height: 1.5;
   font-weight: 500px;
 }
 @media (max-width:950px) {
